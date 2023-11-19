@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9E04278C2B09E12B002B8B17 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E04278B2B09E12B002B8B17 /* DetailView.swift */; };
 		9EF246A92B04EA5900BA4B1B /* LocationSearchApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EF246A82B04EA5900BA4B1B /* LocationSearchApp.swift */; };
 		9EF246AB2B04EA5900BA4B1B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EF246AA2B04EA5900BA4B1B /* ContentView.swift */; };
 		9EF246AD2B04EA5C00BA4B1B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9EF246AC2B04EA5C00BA4B1B /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9E04278B2B09E12B002B8B17 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		9EF246A52B04EA5900BA4B1B /* LocationSearch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LocationSearch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9EF246A82B04EA5900BA4B1B /* LocationSearchApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationSearchApp.swift; sourceTree = "<group>"; };
 		9EF246AA2B04EA5900BA4B1B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				9EF246A82B04EA5900BA4B1B /* LocationSearchApp.swift */,
 				9EF246AA2B04EA5900BA4B1B /* ContentView.swift */,
+				9E04278B2B09E12B002B8B17 /* DetailView.swift */,
 				9EF246AC2B04EA5C00BA4B1B /* Assets.xcassets */,
 				9EF246AE2B04EA5C00BA4B1B /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9E04278C2B09E12B002B8B17 /* DetailView.swift in Sources */,
 				9EF246AB2B04EA5900BA4B1B /* ContentView.swift in Sources */,
 				9EF246A92B04EA5900BA4B1B /* LocationSearchApp.swift in Sources */,
 			);
